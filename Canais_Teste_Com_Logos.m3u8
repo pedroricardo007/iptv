@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PremiereFC1.br" tvg-name="Premiere 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Esportes",Premiere 1
+https://dw5pdgvk.fubo18.com/premiere1/mono.m3u8?token=3425ef2491dcfc75d5990b5f8218c39f229a0c1f-e5-1793325145-1793307145
+#EXTINF:-1 tvg-id="PremiereFC2.br" tvg-name="Premiere 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Esportes",Premiere 2
+https://dglvz29s.fubo18.com/premiere2/mono.m3u8?token=a50dc054f7ebdc3342e68282496122826d1e5f85-18-1793325522-1793307522
+#EXTINF:-1 tvg-id="PremiereFC3.br" tvg-name="Premiere 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png" group-title="Esportes",Premiere 3
+https://dw5pdgvk.fubo18.com/premiere3/mono.m3u8?token=accb9391a0e1e43ef0407ba9b099c3f9309c3784-d1-1793325564-1793307564
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Esportes",SporTV
+https://dglvz29s.fubo18.com/sportv/mono.m3u8?token=d5d1de44910ed43b89397dd71cdfb6db6909f54c-ff-1793325604-1793307604
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo" tvg-logo="https://i.imgur.com/OoSUg78.png" group-title="TV aberta",Globo São Paulo
+https://live-ber-sp-09-38.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA5LTM4LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5MzMyOTcxNiwiaWF0IjoxNzkzMzA4MTE2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjYxMmI3YWNjLTg4YWYtNGJkYy05N2E0LWJjZWE0MGM3ZTg4NSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.FiPSo-O2SagiDexo2xtEI4rGBbRgXnkOmRcfUZvVncgwn3zK_oB1zPQ4QIDLfSjEzoWz091ek2lixyfick0DGZ0cPh1Ah8l27NBgpdPywy8xQRE1ycgeg7FLfw2Uha5xVSQ_kHNwlFiT-SyuFfRs4q5LnA6DZMYgyMAPK_Z9Fz_NutOLkmuxotrkh9GKQlUOgt0rSdMCKrLjN-EK_tU6X3GkdCi5Ri9HM03EXH29OGILW10cbhcD5F1YbbqT34slnBQD02i1eWF4xhhwSONtOFUrTMr3DL9oW18rSKVybZPgr0RDCM-BOXWkj0cFQ_Hr9gPciLM8NvpDmYjS4o-I3g/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/cf8d5d85-f546-43e8-89dc-32159088fdeb:SCL2/variant/85321717925f2805ec75dd8f4bcaa0e7/bandwidth/4385000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal a identificar" tvg-logo="" group-title="Testes",Canal a identificar
+https://play.flashcova.com/live/live/8da448a402c8634124f5d2e0524e56d0/index.m3u8?md5=DhVzXZ9XVtL4nX0F7Stktw&expires=1793308260
+#EXTINF:-1 tvg-name="ESPN — Espanhol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Esportes internacionais",ESPN — Espanhol
+https://ym9yzq.fubo18.com/espn/mono.m3u8?token=4112022090c8217f56404d40e5d079d146e69fbd-57-1793326910-1793308910
+#EXTINF:-1 tvg-name="ESPN 2 México — Espanhol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Esportes internacionais",ESPN 2 México — Espanhol
+https://c2f2zq.fubo18.com/espn2mx/mono.m3u8?token=be1901380c9230267d10c697ddb715a373f0d01e-25-1793326994-1793308994
+#EXTINF:-1 tvg-name="DSports Argentina — Espanhol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Esportes internacionais",DSports Argentina — Espanhol
+https://b2zmawnpyww.fubo18.com/dsportsar/mono.m3u8?token=ccb47a09f51489e4b33ce7e347858f2af4849982-7f-1793327041-1793309041
+#EXTINF:-1 tvg-name="DSports — Opção 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Esportes internacionais",DSports — Opção 2
+https://y2fzdgxl.fubo18.com/dsports_op2/mono.m3u8?token=f85bceb91823cb179d09935d4cc97c4eb5e4d27e-4a-1793327099-1793309099
+#EXTINF:-1 tvg-name="Win Sports+" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Esportes internacionais",Win Sports+
+https://bgvnzw5k.fubo18.com/winplus/mono.m3u8?token=03ace15f64a3ecffb86b19420fb0c653780eb055-a5-1793327137-1793309137
+#EXTINF:-1 tvg-name="Universo" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="Canais internacionais",Universo
+https://ym9yzq.fubo18.com/universo/mono.m3u8?token=621eaf827119ef8125645f21533ee04794661c11-78-1793327189-1793309189
+#EXTINF:-1 tvg-name="ESPN 3 — Região a confirmar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Esportes internacionais",ESPN 3 — Região a confirmar
+https://bgvnzw5k.fubo18.com/espn3/mono.m3u8?token=fc85d4431476bfe8c5dc2d8c7ebdc24178bce857-80-1793327229-1793309229
+#EXTINF:-1 tvg-name="Record São Paulo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" group-title="TV aberta",Record São Paulo
+https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/b018c757-1eab-4d9e-bb81-a207387e5bc2:SCL2/variant/c4abf586dea8cf89652263cfec1d873d/bandwidth/4407612.m3u8?hdntl=&hdnts=exp=1793325000~acl=/hls/live/2029736/spo4/*~hmac=bd8709d998fde26de7882127d6a9701fe2afce40aeda2e97c92bb8c122694a7f
+#EXTINF:-1 tvg-name="Band São Paulo" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="TV aberta",Band São Paulo
+https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/8872797e-aafd-47df-8a55-706fb6910b07:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4766400.m3u8
+#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="TV aberta",RedeTV!
+https://live.eu-north-1b.cf.dmcdn.net/sec2(oL0FKOdpaa7f6prhtXD66TMnrC5aNbnJ8XEtmCk2OGwIHuI6UF4DAVoJhhl2I0La0JtqXXJFklTcNkgLf_prk_btxGYWoylJAmx59p3lI92_xTdwbLLl9S-h1rNCFh9M)/dm/3/x8xps0s/d/live-380.m3u8
+#EXTINF:-1 tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="TV aberta",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
